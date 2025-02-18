@@ -8,13 +8,13 @@
           { "path": "suppl_dir/bootloader_dout_40m_v2022.bin", "offset": 4096 },
           { "path": "suppl_dir/partitions.bin", "offset": 32768 },
           { "path": "suppl_dir/boot_app0_v2022.bin", "offset": 57344 },
-          { "path": "WLED_0.14.4_ESP32_audioreactive.bin", "offset": 65536 }
+          { "path": "bin_dir/2_blazoncek/stable/WLED_0.15.1-b1_ESP32.bin", "offset": 65536 }
         ]
       },
       {
         "chipFamily": "ESP8266",
         "parts": [
-          { "path": "esp8266/SerialHelloWorld.ino.bin", "offset": 0 }
+          { "path": "bin_dir/2_blazoncek/WLED_0.15.1-b1_ESP8266_160.bin", "offset": 0 }
         ]
       }
     ]
